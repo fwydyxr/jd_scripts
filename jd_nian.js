@@ -129,7 +129,7 @@ async function doTask() {
   for (let item of $.taskVos) {
     if (item.taskType === 14) {
       //好友助力任务
-      //console.log(`您的好友助力码为${item.assistTaskDetailVo.taskToken}`)
+      //console.log(`您的好友助力码为${cgxZdTXtI-vYvF3BDQ346ENIBZDCRuDEeomz3u3tgubd3tHPYv6tenxwJ9I}`)
     }
     if(item.taskType===2){
       if (item.status === 1) {
